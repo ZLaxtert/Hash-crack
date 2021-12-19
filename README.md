@@ -17,5 +17,5 @@
     $ php crack.php
 
 ## Screenshot
-<img src="img/bg.jpg">
+<img src="img/bg.png">
 
